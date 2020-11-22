@@ -12,17 +12,17 @@ const Nav = (props) => (
             </li>
             <li>
                 <Scroll type="id" element="first">
-                    <a href="#">Members</a>
-                </Scroll>
-            </li>
-            <li>
-                <Scroll type="id" element="second">
                     <a href="#">Social</a>
                 </Scroll>
             </li>
             <li>
+                <Scroll type="id" element="second">
+                    <a href="#">Founders</a>
+                </Scroll>
+            </li>
+            <li>
                 <Scroll type="id" element="cta">
-                    <a href="#">Blog</a>
+                    <a href="#">Merch</a>
                 </Scroll>
             </li>
         </Scrollspy>
