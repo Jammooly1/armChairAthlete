@@ -48,11 +48,11 @@ class Index extends React.Component {
                   <h2>Who are we? What do we do?</h2>
                 </header>
                 <p>
-                  We are three good friends that want to share our love of basketball and strong opinions of it to one another and to an audience.
+                  We are three good friends that want to share our love of our favorite sports and strong opinions of it to one another and to an audience.
                 </p>
                 <p>
                   We will upload audio/video podcasts weekly discussing current events and popular topics in 
-                  today's basketball and update our social media accounts with the latest news in basketball as well.
+                  today's basketball and other sports and update our social media accounts with the latest news in sports as well.
                 </p>
                 {/* <ul className="actions">
                   <li>
@@ -145,7 +145,7 @@ class Index extends React.Component {
                   </span>
                 <h3>Aaron Rodriguez</h3>
                 <p>
-                  Creative graphic designer with much innovation. Favorite team is the Detroit Pistons.
+                  Creative graphic designer with much innovation. Favorite BBall team is the Detroit Pistons.
                 </p>
               </li>
               <li>
@@ -155,7 +155,7 @@ class Index extends React.Component {
                   </span>
                 <h3>Jamal Dabas</h3>
                 <p>
-                  Software engineer that created this website. Favorite team is the San Antonio Spurs.
+                  Talented software engineer that created this website. Favorite BBall team is the San Antonio Spurs.
                 </p>
               </li>
               <li>
@@ -165,7 +165,7 @@ class Index extends React.Component {
                 </span>
                 <h3>Sasank Inagandla</h3>
                 <p>  
-                  Bitcoin enthusiast and laid back college student. Favorite team is the Los Angeles Clippers.
+                  Bitcoin enthusiast and laid back college student. Favorite BBall team is the Los Angeles Clippers.
                 </p>
               </li>
             </ul>
